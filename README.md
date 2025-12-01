@@ -14,3 +14,6 @@ Wedge Profile: The main body features a continuous, sloping top surface, creatin
 Integrated Vents: Angular, triangular cutouts are added into the top surface for active cooling airflow as without a ventilzation system the laptop stand would overheat.
 
 Stepped Side Walls: The side profiles feature complex, layered cuts to give it a multi dimensional look.
+
+<img width="1572" height="1374" alt="image" src="https://github.com/user-attachments/assets/eff91838-dbe3-4107-a75b-2e11ffb0d1f0" />
+<img width="1552" height="1438" alt="image" src="https://github.com/user-attachments/assets/155e3a3b-0115-436e-b4d4-bcf52203106c" />
